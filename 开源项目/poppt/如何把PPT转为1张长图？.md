@@ -46,10 +46,7 @@ Returns: None
 ```
 
 
-## 2、如何使用？
 
-于是就有了下面这个快速的代码，帮助你在瞬息万变的股市里，快速做出买卖的决定！
-本次分享的第三方库是：``pofinance``，一个开源的Python金融库。
 
 > ⭐Python自动化办公，开源项目的地址：https://github.com/CoderWanFeng/python-office
 
