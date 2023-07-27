@@ -3,7 +3,7 @@
 ![](https://article-1300615378.cos.ap-nanjing.myqcloud.com/poppt/ppt2img-2/cover.jpg?q-sign-algorithm=sha1&q-ak=AKIDj3OAEuyi6x-Gg64IGfJSWmxsvglSwKk0Ez6-gv6l-R2HPf0hQgw0gu39-3roe7dV&q-sign-time=1686409748;1686413348&q-key-time=1686409748;1686413348&q-header-list=host&q-url-param-list=ci-process&q-signature=6567dba705aac061cb64584207134c2aaac520c3&x-cos-security-token=4pSLRb2s43lVKR15k7OU5j1SaTqr84qa87505965ca9391c1c017a0089371698bxTxnmYsxGbL2omBWefqpxKb5CB8HbIYRc7x071qoRSBdE5QgBJFr6RbiPIPX93aFLoer-Z1yp4Ijt2_JCsQbPGq-UMKWOFuOMEyx3QBVjEb5E64N4C0jtscIBjYqUqKAvPbZ0Bh8joFRE-58E3-Jea9Vew2xizTzbZYf0iG00aVqm-_IC-UqSdWbiZArdShV&ci-process=originImage)
 
 
-大家好，这里是程序员晚枫，小红薯也叫这个名。读者群👉[点我直达](https://mp.weixin.qq.com/s/K2qx_L12n-VIJBIHScPFGQ)。
+大家好，这里是程序员晚枫，小红薯也叫这个名。读者群👉[点我直达](https://mp.weixin.qq.com/s/NN2pX2bQPpczOeGF4ARNtw)。
 
 上次在同名小破站给大家分享👉[1行代码，PPT转图片](https://mp.weixin.qq.com/s/KtxI8H0RVJEnYtB18T6XiQ)后，评论区有朋友反映：上次分享的是把50页PPT转成了50张图片，但他还想要把``1份PPT转成1张长图``的代码。
 

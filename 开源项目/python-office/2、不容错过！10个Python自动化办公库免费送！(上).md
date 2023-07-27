@@ -1,5 +1,8 @@
 # 全部免费！整理了10个Python自动化办公库！(上)
 
+
+![](https://article-1300615378.cos.ap-nanjing.myqcloud.com/python-office%2F10%E4%B8%AA%E8%87%AA%E5%8A%A8%E5%8C%96%E5%8A%9E%E5%85%AC%E5%BA%93%2Fcover.jpg)
+
 大家好，这里是程序员晚枫，B站也叫这个名。
 
 今天给大家分享一下，花费2周时间整理的Python自动化办公库。
@@ -107,4 +110,10 @@ import search4file
 # 1行代码，实现 
 search4file.search_by_content(r'你的文件夹，例如：d:\\程序员晚枫的文件夹' , content="你需要查找的文件里面的内容，例如：所有平台都叫-程序员晚枫")
 ```
+
+---
+
+在使用中有问题，或者觉得本文有帮助，请在评论区告诉我吧~
+
+![](https://article-1300615378.cos.ap-nanjing.myqcloud.com/python-office/10%E4%B8%AA%E8%87%AA%E5%8A%A8%E5%8C%96%E5%8A%9E%E5%85%AC%E5%BA%93/in-1.jpg)
 

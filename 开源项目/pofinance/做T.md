@@ -1,6 +1,6 @@
 # 【Python金融-001】如何快速计算股票的收益？1行代码，高效做T
 
-大家好，这里是程序员晚枫，小红书也叫这个名。读者群👉[点我直达](https://mp.weixin.qq.com/s/K2qx_L12n-VIJBIHScPFGQ)。
+大家好，这里是程序员晚枫，小红书也叫这个名。读者群👉[点我直达](https://mp.weixin.qq.com/s/NN2pX2bQPpczOeGF4ARNtw)。
 
 如果中年妇女的归宿是广场舞，那么中年男人的归宿想必就是股票了，懂得都懂。
 
