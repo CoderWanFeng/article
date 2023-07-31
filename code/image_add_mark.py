@@ -8,4 +8,6 @@
 '''
 import office
 
-office.image.add_watermark(file=r'D:\download\自定义模板 (69).jpg', mark='程序员晚枫', output_path=r'mark_img')
+# office.image.add_watermark(file=r'D:\download\自定义模板 (69).jpg', mark='程序员晚枫', output_path=r'mark_img')
+office.image.add_watermark(file=r'C:\Users\Lenovo\Desktop\temp\pep634.png', mark='小红薯：程序员晚枫',
+                           output_path=r'D:\workplace\code\github\article\code\mark_img')

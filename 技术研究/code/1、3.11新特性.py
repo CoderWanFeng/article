@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 '''
-@作者  ：B站/抖音/微博/小红书/公众号，都叫：程序员晚枫
-@微信     ：CoderWanFeng : https://mp.weixin.qq.com/s/HYOWV7ImvTXImyYWtwADog
+@作者  ：小破站/抖音/微博/小红薯/公众号，都叫：程序员晚枫
+@微信     ：CoderWanFeng : https://mp.weixin.qq.com/s/yFcocJbfS9Hs375NhE8Gbw
 @个人网站      ：www.python-office.com
 @代码日期    ：2023/7/26 23:57 
 @本段代码的视频说明     ：
@@ -9,22 +9,45 @@
 
 
 def select_platform(name):
+    if name == "小破站":
+        print(f"程序员晚枫的{name}主页链接是：https://space.bilibili.com/1989702333")
+    elif name == "Z乎":
+        print(f"程序员晚枫的{name}主页链接是：https://www.zhihu.com/people/CoderWanFeng")
+    elif name == "小红薯":
+        print(
+            f"程序员晚枫的{name}主页链接是：https://www.xiaohongshu.com/user/profile/611dcb820000000001014aca?xhsshare=CopyLink&appuid=611dcb820000000001014aca&apptime=1690386848")
+    else:
+        print(f"程序员晚枫的默认主页链接是：https://www.python-office.com/")
+
+
+select_platform("小破站")
+# Output: 程序员晚枫的小破站主页链接是：https://space.bilibili.com/1989702333
+select_platform("Z乎")
+
+
+# Output: 程序员晚枫的Z乎主页链接是：https://www.zhihu.com/people/CoderWanFeng
+
+
+def select_platform(name):
     match name:
-        case "B站":
+        case "小破站":
             print(f"程序员晚枫的{name}主页链接是：https://space.bilibili.com/1989702333")
-        case "知乎":
+        case "Z乎":
             print(f"程序员晚枫的{name}主页链接是：https://www.zhihu.com/people/CoderWanFeng")
-        case "小红书":
+        case "小红薯":
             print(
                 f"程序员晚枫的{name}主页链接是：https://www.xiaohongshu.com/user/profile/611dcb820000000001014aca?xhsshare=CopyLink&appuid=611dcb820000000001014aca&apptime=1690386848")
+        case _:
+            print(f"程序员晚枫的默认主页链接是：https://www.python-office.com/")
 
 
-select_platform("B站")
-# Output: 程序员晚枫的B站主页链接是：https://space.bilibili.com/1989702333
-select_platform("知乎")
+select_platform("小破站")
+# Output: 程序员晚枫的小破站主页链接是：https://space.bilibili.com/1989702333
+select_platform("Z乎")
 
 
-# Output: 程序员晚枫的知乎主页链接是：https://www.zhihu.com/people/CoderWanFeng
+# Output: 程序员晚枫的Z乎主页链接是：https://www.zhihu.com/people/CoderWanFeng
+
 
 def add_numbers(a: int, b: int) -> int:
     return a + b
